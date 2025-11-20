@@ -4,12 +4,6 @@ This repository presents an academic implementation of medical text summarizatio
 
 ---
 
-## Abstract
-
-Automatic summarization of medical literature is an essential task for improving accessibility to clinical knowledge and supporting evidence-based decision-making. This project fine-tunes the BART encoder–decoder transformer using LoRA, enabling efficient adaptation of large models with minimal computational overhead. The dataset is derived from PubMed abstracts and associated article content, with preprocessing tailored to the requirements of medical text.
-
----
-
 ## Research Motivation
 
 Medical literature is extensive, technical, and continually growing. Extracting concise and accurate summaries from lengthy medical documents is challenging due to:
@@ -155,6 +149,7 @@ model.generate()
 - Experiments with RL-based summarization methods (RLHF, RLAIF)
 
 ---
+
 
 
 
