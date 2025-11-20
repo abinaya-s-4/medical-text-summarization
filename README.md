@@ -70,7 +70,7 @@ The `generate_summary.ipynb` notebook demonstrates:
 ### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/abinaya-s-4/medical-text-summarization>
+git clone https://github.com/abinaya-s-4/medical-text-summarization
 cd medical-text-summarization-project
 ```
 
@@ -149,6 +149,7 @@ model.generate()
 - Experiments with RL-based summarization methods (RLHF, RLAIF)
 
 ---
+
 
 
 
